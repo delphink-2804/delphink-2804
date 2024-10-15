@@ -30,5 +30,5 @@ Welcome to my GitHub profile! I’m currently in my **third year of B.Tech in In
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Delphin K]([https://www.linkedin.com/in/delphin-k/](https://linkedin.com/in/delphin-k-113713270/))
+- **LinkedIn:** [Delphin K]([https://www.linkedin.com/in/delphin-k/])
 - **Email:** [delphink0407@gmail.com](delphink0407@gmail.com)
