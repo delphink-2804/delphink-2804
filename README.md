@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Delphin K!
+# 👋 DELPHIN K,
 
 Welcome to my GitHub profile! I’m currently in my **third year of B.Tech in Information Technology** at **PSNA College of Engineering and Technology**, and I’m passionate about coding, designing, and solving real-world problems through technology.
 
