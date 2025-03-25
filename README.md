@@ -1,34 +1,39 @@
-# 👋 DELPHIN K,
+# 👋 Hi, I'm Delphin K!
 
-Welcome to my GitHub profile! I’m currently in my **third year of B.Tech in Information Technology** at **PSNA College of Engineering and Technology**, and I’m passionate about coding, designing, and solving real-world problems through technology.
+## 1. 📝 About Me
+I'm a **third-year B.Tech IT student** at **PSNA College of Engineering and Technology (Class of 2026)** with a passion for **coding, designing, and solving real-world problems**. I’m currently exploring **full-stack development** while enhancing my knowledge in **AI and ML**.
 
-## 👩‍💻 About Me
+## 2. 🚀 Projects
+- 🤖 **AI-Powered Recommendation System** – Developing AI models for predictive analytics.
+- 🎨 **UI/UX Portfolio Design** – Creating intuitive and user-centric design solutions.
+- 🌐 **E-Commerce Platform** – Building a full-stack web application with React and Node.js.
 
-- 🎓 **B.Tech IT (Class of 2026)** at PSNA College of Engineering and Technology
-- 💻 **Proficient in:** Java, Figma, UI/UX Design
-- 🛠️ **Technologies I use:** 
-  - **Frontend:** HTML, CSS, JavaScript, React
-  - **Backend:** Node.js, MySQL, Firebase
-  - **UI/UX:** Figma, Adobe XD
-- 📚 **Learning:** Advanced web development, AI and ML algorithms
-- 💡 **Current Projects:** Working on AI-powered recommendation systems and creative UI/UX solutions
-- 🏅 **Achievements:** 
-  - NPTEL Certified in Java Programming (IIT Kharagpur)
-  - Multiple project and coding competition recognitions
+## 3. 🎓 Education
+- 📚 **B.Tech in Information Technology**  
+  **PSNA College of Engineering and Technology** (2023 - 2026)
 
-## 🔭 What I'm Working On
+## 4. 🎖️ Certifications
+- 🏆 **NPTEL Certified in Java Programming** (IIT Kharagpur)
+- 📜 **Cloud Security Fundamentals** (Palo Alto Networks)
+- 🔥 **UI/UX Design Essentials** (Coursera)
 
-- Enhancing my skills in **full-stack development** using JavaScript frameworks
-- Designing intuitive **user experiences** with a focus on **accessibility**
-- Building AI models for **predictive analytics** and **recommendation engines**
-  
-## 🌱 What I’m Passionate About
+## 5. 🛠️ Key Skills
+- **Programming Languages:** Java, C, JavaScript
+- **Frontend Technologies:** HTML, CSS, React
+- **Backend Technologies:** Node.js, MySQL, Firebase
+- **UI/UX Design:** Figma, Adobe XD
+- **Problem Solving & Algorithms**
 
-- **UI/UX Design:** I enjoy transforming ideas into beautiful, user-friendly interfaces
-- **Problem-Solving:** I’m always excited by challenges that push me to think critically and develop innovative solutions
-- **AI & ML:** Exploring how AI can improve and automate processes, especially in low-connectivity environments
+## 6. 🏅 Achievements
+- 🎯 **50-Day LeetCode Streak** – Solved over 300+ problems.
+- 🥇 **Winner in Hackathons & Coding Competitions**
+- 💡 Recognized for multiple **AI & ML Projects**.
 
-## 📫 How to Reach Me
+## 7. 🌐 Languages
+- 🇬🇧 English
+- 🇮🇳 Tamil
 
-- **LinkedIn:** [[Delphin K](https://www.linkedin.com/in/delphin-k/)]
-- **Email:** [delphink0407@gmail.com](delphink0407@gmail.com)
+## 8. 🤝 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/delphink)
+- 📧 **Email:** delphin@example.com
+- 🌐 [GitHub](https://github.com/DelphinK)
